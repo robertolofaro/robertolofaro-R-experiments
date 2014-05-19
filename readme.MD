@@ -3,3 +3,6 @@
 ### This is a tertiary heading
 
 Just a repository for my experiments in learning R following a Coursera course
+
+* first item in list
+* second item in list
