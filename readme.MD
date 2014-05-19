@@ -1,0 +1,1 @@
+Just a repository for my experiments in learning R following a Coursera course
